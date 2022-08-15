@@ -1,4 +1,4 @@
-//Q.2 Use REST countrie api to display all country flags
+//Q.2 Use REST country api to display all country flags
 
 
 let xhr=new XMLHttpRequest()
