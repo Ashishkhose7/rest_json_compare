@@ -1,0 +1,5 @@
+1.how to compare two JSON have same property without order
+  var obj1={name:"Person 1",age:5}
+  var obj1={age:5,name:"Person 1"}
+2. use rest country api and display all country flags
+3. use rest country api and display country name,region,subregion,population
